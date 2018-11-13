@@ -1,0 +1,10 @@
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\bin\Debug\Motor_Grafico.exe.config
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\bin\Debug\Motor_Grafico.exe
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\bin\Debug\Motor_Grafico.pdb
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.csprojResolveAssemblyReference.cache
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.Form1.resources
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.Properties.Resources.resources
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.GenerateResource.Cache
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.csproj.CoreCompileInputs.cache
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.exe
+C:\Users\maricle\source\repos\Motor_Grafico\Motor_Grafico\obj\Debug\Motor_Grafico.pdb
